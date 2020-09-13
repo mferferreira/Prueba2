@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FernandaAPI", "FernandaAPI\FernandaAPI.csproj", "{D3138A94-8096-4001-B076-35F8EC986FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FernandaAPI.Tests", "FernandaAPI.Tests\FernandaAPI.Tests.csproj", "{5C222280-8C7E-4E68-B505-342FD10AE6A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3138A94-8096-4001-B076-35F8EC986FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3138A94-8096-4001-B076-35F8EC986FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3138A94-8096-4001-B076-35F8EC986FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3138A94-8096-4001-B076-35F8EC986FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C222280-8C7E-4E68-B505-342FD10AE6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C222280-8C7E-4E68-B505-342FD10AE6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C222280-8C7E-4E68-B505-342FD10AE6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C222280-8C7E-4E68-B505-342FD10AE6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DC52BD-8BF2-4A51-8DBE-74C4A561E70F}
+	EndGlobalSection
+EndGlobal
